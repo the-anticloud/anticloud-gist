@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:1c316496-3613-5598-b771-6509d19e1f09",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T16:58:18Z",
+    "component": {
+      "type": "application",
+      "name": "GIST",
+      "version": "4669a16af13c",
+      "bom-ref": "pkg:generic/anticloud/GIST@4669a16af13c",
+      "purl": "pkg:generic/anticloud/GIST@4669a16af13c",
+      "licenses": [
+        {
+          "license": {
+            "id": "UNKNOWN"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "4669a16af13ca30be27cb1fecd2176fe120af899"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/semanticarts/gist"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
